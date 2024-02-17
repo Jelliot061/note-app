@@ -1,5 +1,8 @@
 # note-app
 
+<h1>User: admin</h1><br>
+<h1>Password: admin</h1>
+
 ## Project setup
 ```
 npm install
